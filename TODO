@@ -1,0 +1,5 @@
+MuseScore bugs:
+===============
+
+- closing a score asks you if you want to save changes if there are none.
+- updating the the instrment text does not work unless you change the instrument also.
